@@ -1,6 +1,6 @@
 # ejercicios-introduccion-nodejs
 
-**Integrante:** jonmu (grupo: _indicar_)
+**Integrante:** jonmu
 
 Asignatura: Programación de Servicios y Procesos · Bloque 00 · Fundamentos de Node.js (CommonJS + picocolors).
 
